@@ -1,0 +1,7 @@
+en:
+  hello: Hello world
+  ransack:
+    attributes:
+      cheese:
+        id: '%{attributes}'
+        name: '%{attributes}'
